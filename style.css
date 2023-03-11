@@ -12,12 +12,12 @@
 
 .header-left {
     display: flex;
-    gap: 3rem;
+    gap: 2rem;
 }
 
 .header-right {
     display: flex;
-    gap: 3rem;
+    gap: 2rem;
 }
 
 button:hover {
